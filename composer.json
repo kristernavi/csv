@@ -1,0 +1,17 @@
+{
+    "name": "purpleblue/csv",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Krister Garcia",
+            "email": "ivankrister.garcia@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+                "PurpleBlue\\csv\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
